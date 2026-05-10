@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Motivated AI and Data Science Engineer, with hands-on experience in building machine 
+learning models and extracting actionable insights from data, aiming to contribute to 
+innovative, data-driven solutions
+
+
 <!--
 **raghav-22/raghav-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
