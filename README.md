@@ -1,8 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Raghav Balaji
 
-Motivated AI and Data Science Engineer, with hands-on experience in building machine 
-learning models and extracting actionable insights from data, aiming to contribute to 
-innovative, data-driven solutions
+🚀 Computer Vision & Machine Learning Engineer passionate about building intelligent AI systems for real-world applications.
+
+## 👨‍💻 Interests
+
+* Computer Vision
+* Deep Learning
+* Thermal Imaging
+* Edge AI & Robotics
+* Real-time Detection Systems
+
+## 🛠️ Tech Stack
+
+Python | PyTorch | TensorFlow | OpenCV | ONNX | C++ | SQL | Linux | Git
+
+## 🚀 Projects
+
+* Elephant Detection using Thermal Cameras
+* Non-Invasive Hemoglobin Detection
+* Visual Assistance System for Visually Impaired
+* Thermal-based Temperature Monitoring
+
+## 🤝 Open To
+
+* Computer Vision Collaborations
+* Open Source Contributions
+* AI/ML Research Projects
+* Computer Vision Engineer Opportunities
+
+📫 Connect with me:
+
+* LinkedIn: [www.linkedin.com/in/raghav-balaji-a7174622a](http://www.linkedin.com/in/raghav-balaji-a7174622a)
+* Email: [raghav.balaji2020@gmail.com](mailto:raghav.balaji2020@gmail.com)
+
 
 
 <!--
